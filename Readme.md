@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/Web_Apps/blob/master/youtube-app.py">youtube dashboard web app</a>
-- 🌱 I’m currently learning Python 
+- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/Web_Apps/blob/master/youtube-app.py">YouTube dashboard web app</a>
+- 🌱 I’m currently learning Python - Data Structures and Algorithms
