@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/Web_Apps/blob/master/youtube-app.py">Machine learning job interview excercise</a>
+- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/Machine-Learning">Machine learning job interview excercise</a>
 - 🌱 I’m currently learning Python - Machine Learning
 - On my way to become Data Engineer
 
