@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/Machine-Learning">Machine learning job interview excercise</a>
-- 🌱 I’m currently learning Data Structures and Algorithms in Python
+- 🔭 I’m working on <a href="https://github.com/RadoslawJDA/SQL">SQL</a>
+- 🌱 I’m currently learning SQL for job interview
 - On my way to become Data Engineer
 
 ### Certificates
