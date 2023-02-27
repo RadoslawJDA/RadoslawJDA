@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m working on <a href="https://github.com/RadoslawJDA/SQL">SQL</a>
-- 🌱 I’m currently learning data operations for job interview
+- 🌱 I’m currently learning sql
 - On my way to become Data Engineer
